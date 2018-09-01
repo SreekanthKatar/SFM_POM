@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="SFM_POM_01 Suite" verbose="1" parallel="methods" thread-count="2">
+<suite name="SFM_POM Suite" verbose="1" parallel="methods" thread-count="2">
 
 	<listeners>
 		<listener class-name="com.sfm.centerpoint.listeners.CustomListener" />
