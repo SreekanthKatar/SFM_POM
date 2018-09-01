@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution Begining Suite: < SFM_POM_01 Suite >]]>
+    </line>
+    <line>
+      <![CDATA[Execution Begining Test: < Smoke Test >]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser..]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| VerifyPageTitle ||:::: 01-09-2018-11:50:55 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< VerifyPageTitle >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:50:55 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser..]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| VerifyPageURL ||:::: 01-09-2018-11:51:02 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< VerifyPageURL >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:02 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser..]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| VerifyPageLogo ||:::: 01-09-2018-11:51:08 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< VerifyPageLogo >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:08 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser..]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| VerifyLoginButtonText ||:::: 01-09-2018-11:51:15 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< VerifyLoginButtonText >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:15 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser..]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| Verify_Login ||:::: 01-09-2018-11:51:21 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Login Performed Successfully..!!!]]>
+    </line>
+    <line>
+      <![CDATA[Logout Performed Successfully..!!!]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< Verify_Login >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:26 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+    <line>
+      <![CDATA[Execution Begining Suite: < SFM_POM_01 Suite >]]>
+    </line>
+    <line>
+      <![CDATA[Execution Begining Test: < Smoke Test >]]>
+    </line>
+    <line>
+      <![CDATA[Completed Executing Test:< Smoke Test >]]>
+    </line>
+    <line>
+      <![CDATA[Execution Begining Test: < Sanity Test >]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser..]]>
+    </line>
+    <line>
+      <![CDATA[Chrome Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Login Performed Successfully..!!!]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[TEST----------->>::::|| VerifyDashboardPage ||:::: 01-09-2018-11:51:34 ]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.DashBoardPageTest]]>
+    </line>
+    <line>
+      <![CDATA[-------------------------------------------------------------------------------]]>
+    </line>
+    <line>
+      <![CDATA[DONE==>>----<< VerifyDashboardPage >>]]>
+    </line>
+    <line>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:34 ]]>
+    </line>
+    <line>
+      <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+    </line>
+    <line>
+      <![CDATA[Logout Performed Successfully..!!!]]>
+    </line>
+    <line>
+      <![CDATA[Browser Closed]]>
+    </line>
+  </reporter-output>
+  <suite name="SFM_POM_01 Suite" duration-ms="56976" started-at="2018-09-01T06:20:39Z" finished-at="2018-09-01T06:21:36Z">
+    <groups>
+    </groups>
+    <test name="Smoke Test" duration-ms="47560" started-at="2018-09-01T06:20:39Z" finished-at="2018-09-01T06:21:27Z">
+      <class name="com.sfm.centerpoint.tests.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="SetUp" is-config="true" duration-ms="15708" started-at="2018-09-01T06:20:39Z" finished-at="2018-09-01T06:20:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser..]]>
+            </line>
+            <line>
+              <![CDATA[Chrome Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyPageTitle()[pri:1, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="VerifyPageTitle" duration-ms="50" started-at="2018-09-01T06:20:55Z" finished-at="2018-09-01T06:20:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| VerifyPageTitle ||:::: 01-09-2018-11:50:55 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< VerifyPageTitle >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:50:55 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="tearDown" is-config="true" duration-ms="613" started-at="2018-09-01T06:20:55Z" finished-at="2018-09-01T06:20:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="SetUp" is-config="true" duration-ms="6169" started-at="2018-09-01T06:20:56Z" finished-at="2018-09-01T06:21:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser..]]>
+            </line>
+            <line>
+              <![CDATA[Chrome Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyPageURL()[pri:2, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="VerifyPageURL" duration-ms="33" started-at="2018-09-01T06:21:02Z" finished-at="2018-09-01T06:21:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| VerifyPageURL ||:::: 01-09-2018-11:51:02 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< VerifyPageURL >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:02 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyPageURL -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="tearDown" is-config="true" duration-ms="619" started-at="2018-09-01T06:21:02Z" finished-at="2018-09-01T06:21:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="SetUp" is-config="true" duration-ms="5907" started-at="2018-09-01T06:21:02Z" finished-at="2018-09-01T06:21:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser..]]>
+            </line>
+            <line>
+              <![CDATA[Chrome Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyPageLogo()[pri:3, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="VerifyPageLogo" duration-ms="148" started-at="2018-09-01T06:21:08Z" finished-at="2018-09-01T06:21:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| VerifyPageLogo ||:::: 01-09-2018-11:51:08 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< VerifyPageLogo >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:08 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyPageLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="tearDown" is-config="true" duration-ms="585" started-at="2018-09-01T06:21:08Z" finished-at="2018-09-01T06:21:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="SetUp" is-config="true" duration-ms="5767" started-at="2018-09-01T06:21:09Z" finished-at="2018-09-01T06:21:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser..]]>
+            </line>
+            <line>
+              <![CDATA[Chrome Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyLoginButtonText()[pri:4, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="VerifyLoginButtonText" duration-ms="82" started-at="2018-09-01T06:21:15Z" finished-at="2018-09-01T06:21:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| VerifyLoginButtonText ||:::: 01-09-2018-11:51:15 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< VerifyLoginButtonText >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:15 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginButtonText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="tearDown" is-config="true" duration-ms="585" started-at="2018-09-01T06:21:15Z" finished-at="2018-09-01T06:21:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="SetUp" is-config="true" duration-ms="5529" started-at="2018-09-01T06:21:16Z" finished-at="2018-09-01T06:21:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser..]]>
+            </line>
+            <line>
+              <![CDATA[Chrome Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Verify_Login()[pri:5, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="Verify_Login" duration-ms="4920" started-at="2018-09-01T06:21:21Z" finished-at="2018-09-01T06:21:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| Verify_Login ||:::: 01-09-2018-11:51:21 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Login Performed Successfully..!!!]]>
+            </line>
+            <line>
+              <![CDATA[Logout Performed Successfully..!!!]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< Verify_Login >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:26 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@4d3167f4]" name="tearDown" is-config="true" duration-ms="786" started-at="2018-09-01T06:21:26Z" finished-at="2018-09-01T06:21:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sfm.centerpoint.tests.LoginPageTest -->
+    </test> <!-- Smoke Test -->
+    <test name="Sanity Test" duration-ms="9311" started-at="2018-09-01T06:21:27Z" finished-at="2018-09-01T06:21:36Z">
+      <class name="com.sfm.centerpoint.tests.DashBoardPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@32eebfca]" name="SetUp" is-config="true" duration-ms="7420" started-at="2018-09-01T06:21:27Z" finished-at="2018-09-01T06:21:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser..]]>
+            </line>
+            <line>
+              <![CDATA[Chrome Browser Launched]]>
+            </line>
+            <line>
+              <![CDATA[Login Performed Successfully..!!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyDashboardPage()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@32eebfca]" name="VerifyDashboardPage" duration-ms="64" started-at="2018-09-01T06:21:34Z" finished-at="2018-09-01T06:21:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+            <line>
+              <![CDATA[TEST----------->>::::|| VerifyDashboardPage ||:::: 01-09-2018-11:51:34 ]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[Test Method Resides in com.sfm.centerpoint.tests.DashBoardPageTest]]>
+            </line>
+            <line>
+              <![CDATA[-------------------------------------------------------------------------------]]>
+            </line>
+            <line>
+              <![CDATA[DONE==>>----<< VerifyDashboardPage >>]]>
+            </line>
+            <line>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 01-09-2018-11:51:34 ]]>
+            </line>
+            <line>
+              <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyDashboardPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@32eebfca]" name="tearDown" is-config="true" duration-ms="1819" started-at="2018-09-01T06:21:34Z" finished-at="2018-09-01T06:21:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout Performed Successfully..!!!]]>
+            </line>
+            <line>
+              <![CDATA[Browser Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sfm.centerpoint.tests.DashBoardPageTest -->
+    </test> <!-- Sanity Test -->
+  </suite> <!-- SFM_POM_01 Suite -->
+</testng-results>

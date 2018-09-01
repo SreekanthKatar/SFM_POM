@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [HCM Suite]" parallel="methods">
+  <listeners>
+    <listener class-name="com.sfm.centerpoint.listeners.CustomListener"/>
+    <listener class-name="com.sfm.centerpoint.listeners.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="2" name="Smoke Test(failed)" parallel="methods">
+    <classes>
+      <class name="com.sfm.centerpoint.tests.LoginPageTest">
+        <methods>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="VerifyPageLogo"/>
+          <include name="Verify_Login"/>
+          <include name="VerifyLoginButtonText"/>
+          <include name="VerifyPageTitle"/>
+          <include name="VerifyPageURL"/>
+        </methods>
+      </class> <!-- com.sfm.centerpoint.tests.LoginPageTest -->
+    </classes>
+  </test> <!-- Smoke Test(failed) -->
+  <test thread-count="2" name="Sanity Test(failed)" parallel="methods">
+    <classes>
+      <class name="com.sfm.centerpoint.tests.DashBoardPageTest">
+        <methods>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="VerifyDashboardPage"/>
+        </methods>
+      </class> <!-- com.sfm.centerpoint.tests.DashBoardPageTest -->
+    </classes>
+  </test> <!-- Sanity Test(failed) -->
+</suite> <!-- Failed suite [HCM Suite] -->

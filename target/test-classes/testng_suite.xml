@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SFM_POM_01 Suite" verbose="1" parallel="methods" thread-count="2">
+
+	<listeners>
+		<listener class-name="com.sfm.centerpoint.listeners.CustomListener" />
+		<listener class-name="com.sfm.centerpoint.listeners.ExtentReporterNG" />
+	</listeners>
+
+	<test name="Smoke Test">
+		<classes>
+			<class name="com.sfm.centerpoint.tests.LoginPageTest" />
+		</classes>
+	</test>
+	
+	<test name="Sanity Test">
+		<classes>
+			<class name="com.sfm.centerpoint.tests.DashBoardPageTest" />
+		</classes>
+	</test>
+
+</suite>
