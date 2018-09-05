@@ -68,8 +68,8 @@ public class TestBase {
 			driver = new InternetExplorerDriver();
 			Reporter.log("IE Browser Launched",true);
 		}
-		else if (browserName.equals("headless")) {
-			Reporter.log("Launching Headless Browser..",true);
+		else if (browserName.equals("phantum")) {
+			Reporter.log("Launching Phantum Headless Browser..",true);
 			File file = new File("D:\\#Sreekanth_K\\#Softwares\\phantomjs-2.1.1-windows\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe");				
 	        System.setProperty("phantomjs.binary.path", file.getAbsolutePath());
 	        driver = new PhantomJSDriver();

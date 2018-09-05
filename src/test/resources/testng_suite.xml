@@ -2,8 +2,8 @@
 <suite name="SFM_POM Suite" verbose="1" parallel="methods" thread-count="2">
 
 	<listeners>
-		<listener class-name="com.sfm.centerpoint.listeners.CustomListener" />
 		<listener class-name="com.sfm.centerpoint.listeners.ExtentReporterNG" />
+		<listener class-name="com.sfm.centerpoint.listeners.CustomListener" />
 	</listeners>
 
 	<test name="Smoke Test">
