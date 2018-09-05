@@ -4,5 +4,6 @@ D:\SFM_POM\src\main\java\com\sfm\centerpoint\pages\CreateCompanyAndBranchPage.ja
 D:\SFM_POM\src\main\java\com\sfm\centerpoint\base\TestBase.java
 D:\SFM_POM\src\main\java\com\sfm\centerpoint\listeners\ExtentReporterNG.java
 D:\SFM_POM\src\main\java\com\sfm\centerpoint\utils\TestUtil.java
+D:\SFM_POM\src\main\java\com\sfm\centerpoint\utils\Xls_Reader.java
 D:\SFM_POM\src\main\java\com\sfm\centerpoint\listeners\CustomListener.java
 D:\SFM_POM\src\main\java\com\sfm\centerpoint\pages\DashBoardPage.java

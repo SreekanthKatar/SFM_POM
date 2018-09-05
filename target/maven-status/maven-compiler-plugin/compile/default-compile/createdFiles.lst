@@ -6,3 +6,4 @@ com\sfm\centerpoint\pages\ManageLeadPage.class
 com\sfm\centerpoint\listeners\CustomListener.class
 com\sfm\centerpoint\listeners\ExtentReporterNG.class
 com\sfm\centerpoint\pages\DashBoardPage.class
+com\sfm\centerpoint\utils\Xls_Reader.class
