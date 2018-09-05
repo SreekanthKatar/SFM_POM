@@ -1,5 +1,6 @@
 package com.sfm.centerpoint.base;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -11,6 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
+import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.testng.Reporter;
 
 import com.sfm.centerpoint.utils.TestUtil;
@@ -65,6 +67,13 @@ public class TestBase {
 			System.setProperty("webdriver.ie.driver", "D:\\Repositories\\SFM_POM\\src\\main\\java\\com\\sfm\\centerpoint\\browsers\\IEDriverServer.exe");
 			driver = new InternetExplorerDriver();
 			Reporter.log("IE Browser Launched",true);
+		}
+		else if (browserName.equals("headless")) {
+			Reporter.log("Launching Headless Browser..",true);
+			File file = new File("D:\\#Sreekanth_K\\#Softwares\\phantomjs-2.1.1-windows\\phantomjs-2.1.1-windows\\bin\\phantomjs.exe");				
+	        System.setProperty("phantomjs.binary.path", file.getAbsolutePath());
+	        driver = new PhantomJSDriver();
+			Reporter.log("Headless Browser Launched",true);
 		}
 		else {
 			Reporter.log("No Browser Driver for Browser Instance..!!",true);
