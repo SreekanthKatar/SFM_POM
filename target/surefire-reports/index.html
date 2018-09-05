@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-SFM_POM_Suite">
-              <span class="suite-name border-passed">SFM_POM Suite</span>
+              <span class="suite-name border-failed">SFM_POM Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">6 methods,   6 passed</span>
+                    <span class="method-stats">6 methods, 1 failed,   5 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-SFM_POM_Suite" class="hide-methods failed suite-SFM_POM_Suite"> (hide)</a> <!-- hide-methods failed suite-SFM_POM_Suite -->
+                      <a href="#" panel-name="suite-SFM_POM_Suite" class="show-methods failed suite-SFM_POM_Suite"> (show)</a> <!-- show-methods failed suite-SFM_POM_Suite -->
+                    </span>
+                    <div class="method-list-content failed suite-SFM_POM_Suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-SFM_POM_Suite" title="com.sfm.centerpoint.tests.DashBoardPageTest" hash-for-method="VerifyDashboardPage">VerifyDashboardPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-SFM_POM_Suite -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -100,11 +114,6 @@
                       <a href="#" panel-name="suite-SFM_POM_Suite" class="show-methods passed suite-SFM_POM_Suite"> (show)</a> <!-- show-methods passed suite-SFM_POM_Suite -->
                     </span>
                     <div class="method-list-content passed suite-SFM_POM_Suite">
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-SFM_POM_Suite" title="com.sfm.centerpoint.tests.DashBoardPageTest" hash-for-method="VerifyDashboardPage">VerifyDashboardPage</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-SFM_POM_Suite" title="com.sfm.centerpoint.tests.LoginPageTest" hash-for-method="VerifyLoginButtonText">VerifyLoginButtonText</a> <!-- method navigator-link -->
@@ -142,9 +151,9 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-SFM_POM_Suite" class="panel SFM_POM_Suite">
-          <div class="suite-SFM_POM_Suite-class-passed">
+          <div class="suite-SFM_POM_Suite-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
+              <img src="failed.png"/>
               <span class="class-name">com.sfm.centerpoint.tests.DashBoardPageTest</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -153,10 +162,20 @@
                   <a name="VerifyDashboardPage">
                   </a> <!-- VerifyDashboardPage -->
                   <span class="method-name">VerifyDashboardPage</span>
+                  <div class="stack-trace">junit.framework.AssertionFailedError: SFMLogo is not displayed
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertFalse(Assert.java:34)
+	at com.sfm.centerpoint.tests.DashBoardPageTest.VerifyDashboardPage(DashBoardPageTest.java:36)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 10 stack frames
+</div> <!-- stack-trace -->
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-SFM_POM_Suite-class-passed -->
+          </div> <!-- suite-SFM_POM_Suite-class-failed -->
           <div class="suite-SFM_POM_Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -268,13 +287,13 @@ data.addRows(6);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'Verify_Login')
 data.setCell(0, 2, 'com.sfm.centerpoint.tests.LoginPageTest')
-data.setCell(0, 3, 4353);
+data.setCell(0, 3, 6007);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'VerifyPageLogo')
+data.setCell(1, 1, 'VerifyLoginButtonText')
 data.setCell(1, 2, 'com.sfm.centerpoint.tests.LoginPageTest')
-data.setCell(1, 3, 48);
+data.setCell(1, 3, 64);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'VerifyLoginButtonText')
+data.setCell(2, 1, 'VerifyPageLogo')
 data.setCell(2, 2, 'com.sfm.centerpoint.tests.LoginPageTest')
 data.setCell(2, 3, 48);
 data.setCell(3, 0, 3)
@@ -282,18 +301,18 @@ data.setCell(3, 1, 'VerifyDashboardPage')
 data.setCell(3, 2, 'com.sfm.centerpoint.tests.DashBoardPageTest')
 data.setCell(3, 3, 48);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'VerifyPageURL')
+data.setCell(4, 1, 'VerifyPageTitle')
 data.setCell(4, 2, 'com.sfm.centerpoint.tests.LoginPageTest')
 data.setCell(4, 3, 15);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'VerifyPageTitle')
+data.setCell(5, 1, 'VerifyPageURL')
 data.setCell(5, 2, 'com.sfm.centerpoint.tests.LoginPageTest')
 data.setCell(5, 3, 0);
 window.suiteTableData['SFM_POM_Suite']= { tableData: data, tableDiv: 'times-div-SFM_POM_Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 seconds</span>
+              <span class="suite-total-time">Total running time: 6 seconds</span>
               <div id="times-div-SFM_POM_Suite">
               </div> <!-- times-div-SFM_POM_Suite -->
             </div> <!-- times-div -->
@@ -305,34 +324,17 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="reporter-method-div">
-              <span class="reporter-method-name">VerifyPageTitle</span>
+              <span class="reporter-method-name">VerifyPageLogo</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output">
 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-                <span class="reporter-method-output">TEST----------->>::::|| VerifyPageTitle ||:::: 05-09-2018-11:26:15 </span>
+                <span class="reporter-method-output">TEST----------->>::::|| VerifyPageLogo ||:::: 05-09-2018-12:07:41 </span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest</span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
-                <span class="reporter-method-output">DONE==>>----<< VerifyPageTitle >></span>
-                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-11:26:15 </span>
-                <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-              </div> <!-- reporter-method-output-div -->
-            </div> <!-- reporter-method-div -->
-            <div class="reporter-method-div">
-              <span class="reporter-method-name">Verify_Login</span>
-              <div class="reporter-method-output-div">
-                <span class="reporter-method-output">
-</span>
-                <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-                <span class="reporter-method-output">TEST----------->>::::|| Verify_Login ||:::: 05-09-2018-11:26:29 </span>
-                <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
-                <span class="reporter-method-output">Login Performed Successfully..!!!</span>
-                <span class="reporter-method-output">Logout Performed Successfully..!!!</span>
-                <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest</span>
-                <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
-                <span class="reporter-method-output">DONE==>>----<< Verify_Login >></span>
-                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-11:26:33 </span>
+                <span class="reporter-method-output">DONE==>>----<< VerifyPageLogo >></span>
+                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:07:41 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
@@ -342,27 +344,44 @@ return data;
                 <span class="reporter-method-output">
 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-                <span class="reporter-method-output">TEST----------->>::::|| VerifyPageURL ||:::: 05-09-2018-11:26:19 </span>
+                <span class="reporter-method-output">TEST----------->>::::|| VerifyPageURL ||:::: 05-09-2018-12:07:38 </span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest</span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">DONE==>>----<< VerifyPageURL >></span>
-                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-11:26:19 </span>
+                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:07:38 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
             <div class="reporter-method-div">
-              <span class="reporter-method-name">VerifyPageLogo</span>
+              <span class="reporter-method-name">VerifyPageTitle</span>
               <div class="reporter-method-output-div">
                 <span class="reporter-method-output">
 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-                <span class="reporter-method-output">TEST----------->>::::|| VerifyPageLogo ||:::: 05-09-2018-11:26:22 </span>
+                <span class="reporter-method-output">TEST----------->>::::|| VerifyPageTitle ||:::: 05-09-2018-12:07:35 </span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest</span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
-                <span class="reporter-method-output">DONE==>>----<< VerifyPageLogo >></span>
-                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-11:26:22 </span>
+                <span class="reporter-method-output">DONE==>>----<< VerifyPageTitle >></span>
+                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:07:35 </span>
+                <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Verify_Login</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">
+</span>
+                <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
+                <span class="reporter-method-output">TEST----------->>::::|| Verify_Login ||:::: 05-09-2018-12:07:48 </span>
+                <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
+                <span class="reporter-method-output">Login Performed Successfully..!!!</span>
+                <span class="reporter-method-output">Logout Performed Successfully..!!!</span>
+                <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest</span>
+                <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
+                <span class="reporter-method-output">DONE==>>----<< Verify_Login >></span>
+                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:07:54 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
@@ -372,12 +391,12 @@ return data;
                 <span class="reporter-method-output">
 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-                <span class="reporter-method-output">TEST----------->>::::|| VerifyLoginButtonText ||:::: 05-09-2018-11:26:25 </span>
+                <span class="reporter-method-output">TEST----------->>::::|| VerifyLoginButtonText ||:::: 05-09-2018-12:07:45 </span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.LoginPageTest</span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">DONE==>>----<< VerifyLoginButtonText >></span>
-                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-11:26:25 </span>
+                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:07:45 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
@@ -387,12 +406,12 @@ return data;
                 <span class="reporter-method-output">
 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
-                <span class="reporter-method-output">TEST----------->>::::|| VerifyDashboardPage ||:::: 05-09-2018-11:26:38 </span>
+                <span class="reporter-method-output">TEST----------->>::::|| VerifyDashboardPage ||:::: 05-09-2018-12:08:00 </span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">Test Method Resides in com.sfm.centerpoint.tests.DashBoardPageTest</span>
                 <span class="reporter-method-output">-------------------------------------------------------------------------------</span>
                 <span class="reporter-method-output">DONE==>>----<< VerifyDashboardPage >></span>
-                <span class="reporter-method-output">R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-11:26:38 </span>
+                <span class="reporter-method-output">R E S U L T--->>::::::::TEST FAILED ::::::::: 05-09-2018-12:08:00 </span>
                 <span class="reporter-method-output">+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</span>
               </div> <!-- reporter-method-output-div -->
             </div> <!-- reporter-method-div -->
@@ -418,74 +437,76 @@ return data;
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">VerifyPageTitle</span>
-                <span class="method-start">3486 ms</span>
+                <span class="method-start">4512 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">3486 ms</span>
+                <span class="method-start">4527 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">SetUp</span>
-                <span class="method-start">4034 ms</span>
+                <span class="method-start">5069 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">VerifyPageURL</span>
-                <span class="method-start">6941 ms</span>
+                <span class="method-start">7962 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">6956 ms</span>
+                <span class="method-start">7962 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">SetUp</span>
-                <span class="method-start">7052 ms</span>
+                <span class="method-start">8541 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">VerifyPageLogo</span>
-                <span class="method-start">9958 ms</span>
+                <span class="method-start">11389 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">10006 ms</span>
+                <span class="method-start">11437 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">SetUp</span>
-                <span class="method-start">10538 ms</span>
+                <span class="method-start">11969 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">VerifyLoginButtonText</span>
-                <span class="method-start">13444 ms</span>
+                <span class="method-start">14894 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">13492 ms</span>
+                <span class="method-start">14958 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">SetUp</span>
-                <span class="method-start">14055 ms</span>
+                <span class="method-start">15520 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">Verify_Login</span>
-                <span class="method-start">16962 ms</span>
+                <span class="method-start">18368 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">21315 ms</span>
+                <span class="method-start">24375 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.sfm.centerpoint.tests.DashBoardPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">SetUp</span>
-                <span class="method-start">21878 ms</span>
+                <span class="method-start">25008 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
+                <img src="failed.png">
+                </img>
                 <span class="method-name">VerifyDashboardPage</span>
-                <span class="method-start">26787 ms</span>
+                <span class="method-start">29948 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">26835 ms</span>
+                <span class="method-start">30042 ms</span>
               </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

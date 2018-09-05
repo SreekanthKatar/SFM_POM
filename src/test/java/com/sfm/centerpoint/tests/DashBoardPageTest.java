@@ -33,7 +33,7 @@ public class DashBoardPageTest extends TestBase{
 	public void VerifyDashboardPage()
 	{
 		boolean flag = dashboardpage.SFMLogo();
-		Assert.assertFalse("SFMLogo is not displayed", flag);
+		Assert.assertTrue("SFMLogo is not displayed", flag);
 	}
 
 	@AfterMethod
