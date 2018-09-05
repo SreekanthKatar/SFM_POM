@@ -21,7 +21,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| VerifyPageTitle ||:::: 05-09-2018-12:57:42 ]]>
+      <![CDATA[TEST----------->>::::|| VerifyPageTitle ||:::: 05-09-2018-01:38:03 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -36,7 +36,7 @@
       <![CDATA[DONE==>>----<< VerifyPageTitle >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:42 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:03 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -58,7 +58,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| VerifyPageURL ||:::: 05-09-2018-12:57:47 ]]>
+      <![CDATA[TEST----------->>::::|| VerifyPageURL ||:::: 05-09-2018-01:38:08 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -73,7 +73,7 @@
       <![CDATA[DONE==>>----<< VerifyPageURL >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:47 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:08 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -95,7 +95,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| VerifyPageLogo ||:::: 05-09-2018-12:57:53 ]]>
+      <![CDATA[TEST----------->>::::|| VerifyPageLogo ||:::: 05-09-2018-01:38:13 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -110,7 +110,7 @@
       <![CDATA[DONE==>>----<< VerifyPageLogo >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:53 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:13 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -132,7 +132,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| VerifyLoginButtonText ||:::: 05-09-2018-12:57:58 ]]>
+      <![CDATA[TEST----------->>::::|| VerifyLoginButtonText ||:::: 05-09-2018-01:38:18 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -147,7 +147,7 @@
       <![CDATA[DONE==>>----<< VerifyLoginButtonText >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:58 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:18 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -169,7 +169,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| Verify_Login ||:::: 05-09-2018-12:58:03 ]]>
+      <![CDATA[TEST----------->>::::|| Verify_Login ||:::: 05-09-2018-01:38:23 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -190,7 +190,7 @@
       <![CDATA[DONE==>>----<< Verify_Login >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:58:08 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:28 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -227,7 +227,7 @@
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
     </line>
     <line>
-      <![CDATA[TEST----------->>::::|| VerifyDashboardPage ||:::: 05-09-2018-12:58:16 ]]>
+      <![CDATA[TEST----------->>::::|| VerifyDashboardPage ||:::: 05-09-2018-01:38:35 ]]>
     </line>
     <line>
       <![CDATA[-------------------------------------------------------------------------------]]>
@@ -242,7 +242,7 @@
       <![CDATA[DONE==>>----<< VerifyDashboardPage >>]]>
     </line>
     <line>
-      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:58:16 ]]>
+      <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:35 ]]>
     </line>
     <line>
       <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
@@ -254,12 +254,12 @@
       <![CDATA[Browser Closed]]>
     </line>
   </reporter-output>
-  <suite name="SFM_POM Suite" duration-ms="41050" started-at="2018-09-05T07:27:37Z" finished-at="2018-09-05T07:28:18Z">
+  <suite name="SFM_POM Suite" duration-ms="41894" started-at="2018-09-05T08:07:55Z" finished-at="2018-09-05T08:08:37Z">
     <groups>
     </groups>
-    <test name="Smoke Test" duration-ms="31738" started-at="2018-09-05T07:27:37Z" finished-at="2018-09-05T07:28:08Z">
+    <test name="Smoke Test" duration-ms="33580" started-at="2018-09-05T08:07:55Z" finished-at="2018-09-05T08:08:28Z">
       <class name="com.sfm.centerpoint.tests.LoginPageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="SetUp" is-config="true" duration-ms="5269" started-at="2018-09-05T07:27:37Z" finished-at="2018-09-05T07:27:42Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="SetUp" is-config="true" duration-ms="8009" started-at="2018-09-05T08:07:55Z" finished-at="2018-09-05T08:08:03Z">
           <reporter-output>
             <line>
               <![CDATA[Launching Chrome Browser..]]>
@@ -269,7 +269,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="VerifyPageTitle()[pri:1, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="VerifyPageTitle" duration-ms="31" started-at="2018-09-05T07:27:42Z" finished-at="2018-09-05T07:27:42Z">
+        <test-method status="PASS" signature="VerifyPageTitle()[pri:1, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="VerifyPageTitle" duration-ms="15" started-at="2018-09-05T08:08:03Z" finished-at="2018-09-05T08:08:03Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -279,7 +279,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| VerifyPageTitle ||:::: 05-09-2018-12:57:42 ]]>
+              <![CDATA[TEST----------->>::::|| VerifyPageTitle ||:::: 05-09-2018-01:38:03 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -294,21 +294,21 @@
               <![CDATA[DONE==>>----<< VerifyPageTitle >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:42 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:03 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyPageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="tearDown" is-config="true" duration-ms="587" started-at="2018-09-05T07:27:42Z" finished-at="2018-09-05T07:27:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="tearDown" is-config="true" duration-ms="652" started-at="2018-09-05T08:08:03Z" finished-at="2018-09-05T08:08:03Z">
           <reporter-output>
             <line>
               <![CDATA[Browser Closed]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="SetUp" is-config="true" duration-ms="4622" started-at="2018-09-05T07:27:43Z" finished-at="2018-09-05T07:27:47Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="SetUp" is-config="true" duration-ms="4355" started-at="2018-09-05T08:08:03Z" finished-at="2018-09-05T08:08:08Z">
           <reporter-output>
             <line>
               <![CDATA[Launching Chrome Browser..]]>
@@ -318,7 +318,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="VerifyPageURL()[pri:2, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="VerifyPageURL" duration-ms="22" started-at="2018-09-05T07:27:47Z" finished-at="2018-09-05T07:27:47Z">
+        <test-method status="PASS" signature="VerifyPageURL()[pri:2, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="VerifyPageURL" duration-ms="16" started-at="2018-09-05T08:08:08Z" finished-at="2018-09-05T08:08:08Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -328,7 +328,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| VerifyPageURL ||:::: 05-09-2018-12:57:47 ]]>
+              <![CDATA[TEST----------->>::::|| VerifyPageURL ||:::: 05-09-2018-01:38:08 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -343,21 +343,21 @@
               <![CDATA[DONE==>>----<< VerifyPageURL >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:47 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:08 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyPageURL -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="tearDown" is-config="true" duration-ms="571" started-at="2018-09-05T07:27:47Z" finished-at="2018-09-05T07:27:48Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="tearDown" is-config="true" duration-ms="620" started-at="2018-09-05T08:08:08Z" finished-at="2018-09-05T08:08:08Z">
           <reporter-output>
             <line>
               <![CDATA[Browser Closed]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="SetUp" is-config="true" duration-ms="4896" started-at="2018-09-05T07:27:48Z" finished-at="2018-09-05T07:27:53Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="SetUp" is-config="true" duration-ms="4342" started-at="2018-09-05T08:08:08Z" finished-at="2018-09-05T08:08:13Z">
           <reporter-output>
             <line>
               <![CDATA[Launching Chrome Browser..]]>
@@ -367,7 +367,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="VerifyPageLogo()[pri:3, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="VerifyPageLogo" duration-ms="63" started-at="2018-09-05T07:27:53Z" finished-at="2018-09-05T07:27:53Z">
+        <test-method status="PASS" signature="VerifyPageLogo()[pri:3, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="VerifyPageLogo" duration-ms="58" started-at="2018-09-05T08:08:13Z" finished-at="2018-09-05T08:08:13Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -377,7 +377,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| VerifyPageLogo ||:::: 05-09-2018-12:57:53 ]]>
+              <![CDATA[TEST----------->>::::|| VerifyPageLogo ||:::: 05-09-2018-01:38:13 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -392,21 +392,21 @@
               <![CDATA[DONE==>>----<< VerifyPageLogo >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:53 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:13 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyPageLogo -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="tearDown" is-config="true" duration-ms="576" started-at="2018-09-05T07:27:53Z" finished-at="2018-09-05T07:27:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="tearDown" is-config="true" duration-ms="587" started-at="2018-09-05T08:08:13Z" finished-at="2018-09-05T08:08:13Z">
           <reporter-output>
             <line>
               <![CDATA[Browser Closed]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="SetUp" is-config="true" duration-ms="4683" started-at="2018-09-05T07:27:53Z" finished-at="2018-09-05T07:27:58Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="SetUp" is-config="true" duration-ms="4366" started-at="2018-09-05T08:08:13Z" finished-at="2018-09-05T08:08:18Z">
           <reporter-output>
             <line>
               <![CDATA[Launching Chrome Browser..]]>
@@ -416,7 +416,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="VerifyLoginButtonText()[pri:4, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="VerifyLoginButtonText" duration-ms="60" started-at="2018-09-05T07:27:58Z" finished-at="2018-09-05T07:27:58Z">
+        <test-method status="PASS" signature="VerifyLoginButtonText()[pri:4, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="VerifyLoginButtonText" duration-ms="87" started-at="2018-09-05T08:08:18Z" finished-at="2018-09-05T08:08:18Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -426,7 +426,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| VerifyLoginButtonText ||:::: 05-09-2018-12:57:58 ]]>
+              <![CDATA[TEST----------->>::::|| VerifyLoginButtonText ||:::: 05-09-2018-01:38:18 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -441,21 +441,21 @@
               <![CDATA[DONE==>>----<< VerifyLoginButtonText >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:57:58 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:18 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyLoginButtonText -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="tearDown" is-config="true" duration-ms="572" started-at="2018-09-05T07:27:58Z" finished-at="2018-09-05T07:27:59Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="tearDown" is-config="true" duration-ms="584" started-at="2018-09-05T08:08:18Z" finished-at="2018-09-05T08:08:18Z">
           <reporter-output>
             <line>
               <![CDATA[Browser Closed]]>
             </line>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="SetUp" is-config="true" duration-ms="4635" started-at="2018-09-05T07:27:59Z" finished-at="2018-09-05T07:28:03Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="SetUp" is-config="true" duration-ms="4530" started-at="2018-09-05T08:08:18Z" finished-at="2018-09-05T08:08:23Z">
           <reporter-output>
             <line>
               <![CDATA[Launching Chrome Browser..]]>
@@ -465,7 +465,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="Verify_Login()[pri:5, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="Verify_Login" duration-ms="4515" started-at="2018-09-05T07:28:03Z" finished-at="2018-09-05T07:28:08Z">
+        <test-method status="PASS" signature="Verify_Login()[pri:5, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="Verify_Login" duration-ms="4740" started-at="2018-09-05T08:08:23Z" finished-at="2018-09-05T08:08:28Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -475,7 +475,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| Verify_Login ||:::: 05-09-2018-12:58:03 ]]>
+              <![CDATA[TEST----------->>::::|| Verify_Login ||:::: 05-09-2018-01:38:23 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -496,14 +496,14 @@
               <![CDATA[DONE==>>----<< Verify_Login >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:58:08 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:28 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- Verify_Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@69d9c55]" name="tearDown" is-config="true" duration-ms="590" started-at="2018-09-05T07:28:08Z" finished-at="2018-09-05T07:28:08Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.LoginPageTest@13a57a3b]" name="tearDown" is-config="true" duration-ms="582" started-at="2018-09-05T08:08:28Z" finished-at="2018-09-05T08:08:28Z">
           <reporter-output>
             <line>
               <![CDATA[Browser Closed]]>
@@ -512,9 +512,9 @@
         </test-method> <!-- tearDown -->
       </class> <!-- com.sfm.centerpoint.tests.LoginPageTest -->
     </test> <!-- Smoke Test -->
-    <test name="Sanity Test" duration-ms="9274" started-at="2018-09-05T07:28:08Z" finished-at="2018-09-05T07:28:18Z">
+    <test name="Sanity Test" duration-ms="8314" started-at="2018-09-05T08:08:28Z" finished-at="2018-09-05T08:08:37Z">
       <class name="com.sfm.centerpoint.tests.DashBoardPageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@50c87b21]" name="SetUp" is-config="true" duration-ms="7380" started-at="2018-09-05T07:28:08Z" finished-at="2018-09-05T07:28:16Z">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@5f375618]" name="SetUp" is-config="true" duration-ms="6454" started-at="2018-09-05T08:08:28Z" finished-at="2018-09-05T08:08:35Z">
           <reporter-output>
             <line>
               <![CDATA[Launching Chrome Browser..]]>
@@ -527,7 +527,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="VerifyDashboardPage()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@50c87b21]" name="VerifyDashboardPage" duration-ms="59" started-at="2018-09-05T07:28:16Z" finished-at="2018-09-05T07:28:16Z">
+        <test-method status="PASS" signature="VerifyDashboardPage()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@5f375618]" name="VerifyDashboardPage" duration-ms="70" started-at="2018-09-05T08:08:35Z" finished-at="2018-09-05T08:08:35Z">
           <reporter-output>
             <line>
               <![CDATA[
@@ -537,7 +537,7 @@
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
             <line>
-              <![CDATA[TEST----------->>::::|| VerifyDashboardPage ||:::: 05-09-2018-12:58:16 ]]>
+              <![CDATA[TEST----------->>::::|| VerifyDashboardPage ||:::: 05-09-2018-01:38:35 ]]>
             </line>
             <line>
               <![CDATA[-------------------------------------------------------------------------------]]>
@@ -552,14 +552,14 @@
               <![CDATA[DONE==>>----<< VerifyDashboardPage >>]]>
             </line>
             <line>
-              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-12:58:16 ]]>
+              <![CDATA[R E S U L T--->>::::::::TEST PASSED ::::::::: 05-09-2018-01:38:35 ]]>
             </line>
             <line>
               <![CDATA[+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyDashboardPage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@50c87b21]" name="tearDown" is-config="true" duration-ms="1831" started-at="2018-09-05T07:28:16Z" finished-at="2018-09-05T07:28:18Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sfm.centerpoint.tests.DashBoardPageTest@5f375618]" name="tearDown" is-config="true" duration-ms="1789" started-at="2018-09-05T08:08:35Z" finished-at="2018-09-05T08:08:37Z">
           <reporter-output>
             <line>
               <![CDATA[Logout Performed Successfully..!!!]]>
